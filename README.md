@@ -257,3 +257,35 @@ Example:
 - [x] DOI minted and embedded
 - [x] PIO materials included
 - [x] SIDE and legitimacy spiral referenced
+---
+
+## ?? Dissertation Overview
+
+This release accompanies the dissertation *Operationalizing Civic Legitimacy: A Reproducible Framework for E-Governance Infrastructure* by Jordan Crosno.
+
+The dissertation argues that civic legitimacy can be operationalized through reproducible technical infrastructure. It blends legal, empirical, and operational rigor to produce a registry-ready release bundle that encodes democratic values.
+
+### Core Contributions:
+- A framework for reproducible civic releases grounded in SIDE theory and the legitimacy spiral
+- A manifest structure that maps every artifact to provenance, governance pillars, and DOI
+- A release logic that supports public communication, auditability, and institutional adoption
+
+### Methodology:
+- Legal and normative analysis of governance frameworks
+- Empirical mapping of SIDE theory to digital behavior
+- Operational scaffolding using PowerShell, Git, and checksum verification
+
+---
+
+## ?? Theory-to-Release Mapping
+
+| Dissertation Chapter | Release Element | Civic Function |
+|----------------------|------------------|----------------|
+| 1. Introduction      | README.md        | Public framing and civic intent  
+| 2. Foundations       | Governance section | SIDE, legitimacy spiral, Seven Pillars  
+| 3. Methodology       | manifest.yaml    | Provenance, auditability, reproducibility  
+| 4. Implementation    | scripts/         | Operational scaffolding  
+| 5. Civic Engagement  | PIO-briefing.md  | Public communication and adoption  
+| 6. Conclusion        | DOI + release tag | Institutionalization and citation
+
+This mapping ensures that the release is not just technically complete, but intellectually legible and civically grounded.
