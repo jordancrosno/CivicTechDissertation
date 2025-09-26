@@ -1,0 +1,22 @@
+title: CivicTechDissertation: Registry-Ready Infrastructure for Democratic Trust
+upload_type: software
+description: >
+  This release operationalizes SIDE theory, legitimacy spiral, and governance scaffolding
+  into a reproducible, registry-ready civic tech bundle. Every artifact is mapped to
+  provenance, audience, theory, pillar, and DOI for institutional fluency and public trust.
+creators:
+  - name: Crosno, Jordan
+    affiliation: Independent Civic Technologist
+    orcid: https://orcid.org/0000-0000-0000-0000
+license: MIT
+keywords:
+  - civic technology
+  - reproducibility
+  - SIDE theory
+  - legitimacy spiral
+  - governance infrastructure
+related_identifiers:
+  - identifier: https://github.com/jordancrosno/CivicTechDissertation
+    relation: isSupplementTo
+doi: 10.5281/zenodo.10000000
+version: v1.0.0
