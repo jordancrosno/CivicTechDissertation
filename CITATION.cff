@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this civic tech release, please cite it as below."
 title: "CivicTechDissertation: Registry-Ready Infrastructure for Democratic Trust"
+message: \"If you use this civic tech release, please cite it as below.\"
+title: \"CivicTechDissertation: Registry-Ready Infrastructure for Democratic Trust\"
 authors:
   - family-names: Crosno
     given-names: Jordan
