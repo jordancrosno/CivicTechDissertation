@@ -1,39 +1,45 @@
 - artifact_name: README.md
-  sha256: PLACEHOLDER_FOR_SHA256
+  sha256: 19EEE4F2456BECAA245091B635AB532C134DD7E79396062270F26FAE2E9EB8C9
   audience: PIO
   theory: SIDE
+  pillar: Transparency
   poi: true
   provenance: Authored by Jordan Crosno
-  doi: 10.5281/zenodo.README
+  doi: 10.5281/zenodo.10000000
 
 - artifact_name: manifest.yaml
-  sha256: PLACEHOLDER_FOR_SHA256
+  sha256: 53B0DE8003DA9E414B7741660D467534C1E89D6EE5B8CB00DBFF4BB947031AAE
   audience: Auditor
   theory: Legitimacy Spiral
+  pillar: Accountability
   poi: true
   provenance: Generated from civic release logic
-  doi: 10.5281/zenodo.manifest
+  doi: 10.5281/zenodo.10000000
 
 - artifact_name: verify_checksums.ps1
-  sha256: PLACEHOLDER_FOR_SHA256
+  sha256: FILE_NOT_FOUND
   audience: Technologist
   theory: Legitimacy Spiral
+  pillar: Integrity
   poi: false
   provenance: Authored by Jordan Crosno
-  doi: 10.5281/zenodo.verify
+  doi: 10.5281/zenodo.10000000
 
 - artifact_name: update-readme-scaffolding.ps1
-  sha256: PLACEHOLDER_FOR_SHA256
+  sha256: FILE_NOT_FOUND
   audience: Technologist
   theory: Seven Pillars
+  pillar: Participation
   poi: false
   provenance: Authored by Jordan Crosno
-  doi: 10.5281/zenodo.update_readme_scaffolding
+  doi: 10.5281/zenodo.10000000
 
 - artifact_name: update-manifest-and-release.ps1
-  sha256: PLACEHOLDER_FOR_SHA256
+  sha256: FILE_NOT_FOUND
   audience: Technologist
   theory: Legitimacy Spiral
+  pillar: Auditability
   poi: false
   provenance: Authored by Jordan Crosno
-  doi: 10.5281/zenodo.update_manifest_and_release
+  doi: 10.5281/zenodo.10000000
+

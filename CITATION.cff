@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this civic tech release, please cite it as below."
+title: "CivicTechDissertation: Registry-Ready Infrastructure for Democratic Trust"
+authors:
+  - family-names: Crosno
+    given-names: Jordan
+    orcid: https://orcid.org/0000-0000-0000-0000
+doi: 10.5281/zenodo.10000000
+date-released: 2025-09-25
+version: v1.0.0
+license: MIT
+repository-code: https://github.com/jordancrosno/CivicTechDissertation
+keywords:
+  - civic technology
+  - reproducibility
+  - SIDE theory
+  - legitimacy spiral
+  - governance infrastructure
