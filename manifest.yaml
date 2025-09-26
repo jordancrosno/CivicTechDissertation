@@ -7,12 +7,3 @@
   provenance: Authored by Jordan Crosno
   doi: 10.5281/zenodo.10000000
 
-- artifact_name: manifest.yaml
-  sha256: 89B8611286E10ADB4AD5A943220EB37D3B1D934EEEBE4C364FA5BDDA2EBAD481
-  audience: Auditor
-  theory: Legitimacy Spiral
-  pillar: Accountability
-  poi: true
-  provenance: Generated from civic release logic
-  doi: 10.5281/zenodo.10000000
-
