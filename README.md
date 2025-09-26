@@ -289,3 +289,9 @@ The dissertation argues that civic legitimacy can be operationalized through rep
 | 6. Conclusion        | DOI + release tag | Institutionalization and citation
 
 This mapping ensures that the release is not just technically complete, but intellectually legible and civically grounded.
+
+## Stewardship
+
+This release embodies civic stewardship by ensuring all artifacts are versioned, documented, and aligned with public interest values. The repository is maintained with transparent tagging, provenance mapping, and reproducibility scaffolding to support long-term trust, institutional adoption, and democratic accountability.
+
+DOI: https://doi.org/10.5281/zenodo.xxxxxx

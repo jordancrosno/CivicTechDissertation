@@ -1,0 +1,9 @@
+﻿To upload to Zenodo:
+1. Visit https://zenodo.org/deposit/new
+2. Use metadata from zenodo-metadata.json
+3. Attach:
+   - manifest.yaml
+   - README.md
+   - provenance-graph.json
+   - release notes (optional)
+4. Tag with DOI once published
