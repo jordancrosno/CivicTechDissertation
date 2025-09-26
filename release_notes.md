@@ -4,6 +4,8 @@ This release includes:
 - Updated manifest with SHA256, provenance, audience, theory, POI, pillar, and DOI
 - Scripts for verification, governance alignment, and public communication
 - README reflecting dissertation structure and civic scaffolding
+- CITATION.cff for scholarly citation
+- metadata.yaml for Zenodo registry
 
 This release operationalizes:
 - SIDE theory and behavioral scaffolding
