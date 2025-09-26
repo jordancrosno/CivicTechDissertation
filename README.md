@@ -300,3 +300,8 @@ Artifacts are mapped to:
 - DOI
 - Audit-ready manifest
 
+
+## ?? Artifact Summary
+
+
+![Civic Release Verified](audit.md)

@@ -1,0 +1,26 @@
+{
+    "description":  "Registry-ready civic release with SIDE-mapped artifacts, provenance, and reproducible infrastructure.",
+    "access_right":  "open",
+    "related_identifiers":  [
+                                {
+                                    "scheme":  "url",
+                                    "relation":  "isSupplementTo",
+                                    "identifier":  "https://github.com/jordancrosno/CivicTechDissertation"
+                                }
+                            ],
+    "creators":  [
+                     {
+                         "affiliation":  "Independent Researcher",
+                         "name":  "Jordan Crosno"
+                     }
+                 ],
+    "keywords":  [
+                     "SIDE",
+                     "provenance",
+                     "auditability",
+                     "civic tech",
+                     "governance"
+                 ],
+    "title":  "Civic Technology Dissertation Bundle",
+    "license":  "CC-BY-4.0"
+}
