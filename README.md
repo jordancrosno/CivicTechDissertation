@@ -289,3 +289,14 @@ The dissertation argues that civic legitimacy can be operationalized through rep
 | 6. Conclusion        | DOI + release tag | Institutionalization and citation
 
 This mapping ensures that the release is not just technically complete, but intellectually legible and civically grounded.
+# CivicTechDissertation
+
+This repository contains the registry-ready civic technology release for Jordan Crosno's dissertation.  
+It operationalizes SIDE theory, legitimacy spiral, and governance scaffolding into reproducible infrastructure.
+
+Artifacts are mapped to:
+- Provenance
+- SIDE pillars
+- DOI
+- Audit-ready manifest
+

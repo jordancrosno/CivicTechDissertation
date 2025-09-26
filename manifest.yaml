@@ -1,5 +1,6 @@
 - artifact_name: README.md
   sha256: 19EEE4F2456BECAA245091B635AB532C134DD7E79396062270F26FAE2E9EB8C9
+  sha256: PLACEHOLDER
   audience: PIO
   theory: SIDE
   pillar: Transparency
@@ -43,3 +44,4 @@
   provenance: Authored by Jordan Crosno
   doi: 10.5281/zenodo.10000000
 
+  doi: PLACEHOLDER
